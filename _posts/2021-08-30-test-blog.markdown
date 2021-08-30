@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Test blog"
+date:   2021-08-30 08:44:09 -0700
+categories: blog test
+---
+A test `SQL`:
+
+{% highlight sql %}
+select * from dual
+{% endhighlight %}
+
+Check out the [oracle docs][oracle-19c-docs] for more info on how to write SQL
+
+[oracle-19c-docs]: https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html
