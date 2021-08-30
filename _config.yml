@@ -30,9 +30,10 @@ markdown: kramdown
 
 # Build settings
 # candidate theme: minima, cayman, slate
-#theme: minima
+theme: minima
 #remote_theme: pages-themes/slate@v0.2.0
-remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
+#theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
