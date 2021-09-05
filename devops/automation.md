@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "DB Automation"
-permalink: /devops/db-automation/
+title: "Automation"
+permalink: /devops/automation/
 ---
 # Automation benefits
 We all known automation is the future because human is lazy by natural. Besides that, I would like to share a few opinions
