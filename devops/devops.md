@@ -8,7 +8,7 @@ I have been intensively worked on DB Ops and Dev in the last 10+ years. I was lu
 
 # Overall
 In my opinion, these aspects impact the availability the most: architecture, monitor and automation. 
-
+Think about your work like you are running your own business.
 ## Architecture
 The setup of DB and Application is the basement of how reliable the site will be. 
 - DB deployment architecture: whethere we shard the db, how many datacenter we deploy them, how do we do disaster recovery, etc.
