@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "Test blog"
+title:  "Template blog"
 date:   2021-09-06 01:04:09 -0700
-categories: test
+categories: template
 ---
+# Why
+TBD
+
+# How
+Design:
+1. TBD
+2. TBD
+
 A test `SQL`:
 
 {% highlight sql %}
