@@ -4,11 +4,19 @@ title:  "Template blog"
 date:   2021-09-06 01:04:09 -0700
 categories: template
 ---
-# Why
-TBD
+## Why
+1. TBD
+2. TBD
 
-# How
-Design:
+
+## How
+Design
+1. TBD
+2. TBD
+
+
+## What
+Implementation
 1. TBD
 2. TBD
 

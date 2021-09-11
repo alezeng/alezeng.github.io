@@ -1,23 +1,26 @@
 ---
 layout: post
-title:  "Space analysis"
+title:  "Space Analysis"
 date:   2021-09-06 01:04:09 -0700
 categories: analysis
 ---
-# Why
-TBD
+## Why
+In a cloud environment, we have hundreds of thousands of databases to manage. With the understanding of the space usage, we can：
+1. Predict the future space requirements
+2. Find opportunities to optimize space usage
+3. Troubleshooting what unexpected space growth
 
-# How
-Design:
-1. TBD
-2. TBD
+## How
+Goal: **answer any space questions by click on UI**
 
-A test `SQL`:
+Design
+1. Gather disk/vol level space usage
+2. Gather db level space usage
+3. Gather tablespace/segment/table level space usage
 
-{% highlight sql %}
-select * from dual
-{% endhighlight %}
 
-Check out the [oracle docs][oracle-19c-docs] for more info on how to write SQL
-
-[oracle-19c-docs]: https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html
+## What
+Implementation
+1. Create jobs to gather the space usage and store in a centralize db
+2. Create API to show the trend, drilldown and top one with [sql2api framework](/automation/2021/09/06/sql2api-framework.html)
+3. Create UI to show the result with [api2ui framework](/automation/2021/09/06/api2ui-framework.html)
