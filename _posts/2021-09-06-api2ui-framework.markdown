@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "API to UI framework"
+title:  "API to UI Framework"
 date:   2021-09-06 08:44:09 -0700
 categories: automation
 ---

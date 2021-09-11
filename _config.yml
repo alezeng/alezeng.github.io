@@ -21,7 +21,7 @@
 title: Wenjin's blog
 #email: alezeng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Wenjin's blog
+  Welcome to visit Wenjin's blog. @2021
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wenjin.me/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

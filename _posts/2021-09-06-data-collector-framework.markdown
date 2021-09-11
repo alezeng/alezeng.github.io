@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Routing job framework"
+title:  "Data Collector Framework"
 date:   2021-09-06 08:44:09 -0700
 categories: automation
 ---
-Frequently we need to run some routing job on databases, either gather some ad-hoc information or made some changes. Sometimes we may also want to run it as a job for a while.
+Frequently we need to run some data collector jobs, either gather some ad-hoc information. Sometimes we may also want to run it as a job for a while.
 
 # Requirement analysis
 In general, there're 3 steps:
@@ -21,3 +21,4 @@ Make it as a standard framework, so people only needs to focus on the 2nd step w
  5. Create a generic UI to display the current data, and history chart/trend if appliable
 
  
+We can also use this framework to make changes, store the execution result if you want.
