@@ -39,7 +39,7 @@ Design:
 ]
 {% endhighlight %}
 
-3. Job : create a daily job to grab the data for each project, and store current data, and it's history. We can use [data-collector-framework][data-collector-framework].
+3. Job: create a daily job to grab the data for each project, and store current data, and it's history. We can use [data-collector-framework][data-collector-framework].
 
 4. UI:
 - A first page bar/column chart page to show the progress of all projects, with a table below to show all the detail items
