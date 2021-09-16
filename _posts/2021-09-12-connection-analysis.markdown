@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Connection Analysis"
-date:   2021-09-06 01:04:09 -0700
+date:   2021-09-12 01:04:09 -0700
 categories: analysis
 ---
 ## Why

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automation Framework"
-date:   2021-09-06 08:44:09 -0700
+date:   2021-09-05 08:44:09 -0700
 categories: automation
 ---
 ## Why

@@ -15,6 +15,8 @@ The setup of DB and Application is the basement of how reliable the site will be
 - Application architecture: how application resiliency to write failure? How application resiliency to read failure?
 - Kept POC new things: this is how we keep our stack/architecture up to the front of the technical world.
 
+[More about architecture](/devops/architecture/)
+
 ## Monitor
 - Monitor things that matters
 There's endless of metrics that we can monitor, find the most meaningful and business impacted metrics to monitor only
@@ -25,11 +27,12 @@ Alert can be caused by planned maintenance or known issues that are solving in p
 - Setup flexible monitor workflow/framework 
 If there's a requirement to monitor a metric, my goal is to setup it in the *one day*, with end-to-end coverage on all DBs and alter setup. 
 
+[More about monitor](/devops/monitor/)
 ## Automation
-Automation is an important part for high availability. As human will make mistakes which is normal even for senior person, also we cannot guarantee every person we hired are senior. The benefit of a person cannot be aggregated or duplicated. But automation/code can be improved overtime steadily. It helps us reduce human error to near zero. We don't need people to execute any risk tasks, such as change table structure, shutdown, decommission DB. In most cases, we don't even need people to logon to the host or database.  
+Automation is an important part for high availability. As human will make mistakes which is normal even for senior person, also we cannot guarantee every person we hired are perfect. The benefit of a person cannot be aggregated or duplicated. But automation/code can be improved overtime steadily. It helps us reduce human error to near zero. We don't need people to execute any risk tasks, such as change table structure, shutdown, decommission DB. In most cases, we don't even need people to logon to the host or database.  
 - Automation any repeat work with priority
 Same to monitor, there's endless works can be automated, and we always have limited time, so prioritize is very important. That will improve your ROI.
 - Setup flexible automation workflow/framework 
 If there's a requirement to automate a task, my goal is to setup it in *one week*. If we cannot reach that, that means we need to improve our framework, or need more basic libs to make it easier.
 
-
+[More about automation](/devops/automation/)
