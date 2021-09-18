@@ -37,9 +37,9 @@ The main choice we need to make is the shard logic:
 - Pros: good for range based data; extend linearly
 - Cons: limited to specific data type; not evely distributed data may cause hot range; split range is heavy operation
 
-2. `Hash based sharding`
+2. `Hash based sharding`. The simplest hash method is Mod.
 - Pros: any data type; can be distributed evenly
-- Cons: cannot serve range query efficiently; extend only with 2X capacity
+- Cons: cannot serve range query efficiently; cannot extend linearly; need to migrate/split data when extend
 
 3. `List based sharding`
 Similiar to Range
