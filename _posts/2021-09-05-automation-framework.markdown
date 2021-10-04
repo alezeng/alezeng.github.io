@@ -44,4 +44,6 @@ Design
 - Run the step as step meta defined. If a middle result needs to be used afterwards, inject the values to the job log table
 - Repeat above until all steps are done
 
-
+*Snapshot example*
+![Example](/img/automation-framework.png)
+![Example](/img/automation-framework-menu.png)

@@ -19,6 +19,9 @@ Design
  2. Send alerts if there's out of threshold or stale
  3. Alert if the data is stale
 
+*Snapshot example*
+![Example](/img/monitor-framework.png)
+
+
 [job cart framework]: /automation/2021/09/06/job-cart-framework.html
 [SQL to API framework]: /automation/2021/09/06/sql2api-framework.html
-

@@ -22,3 +22,6 @@ Make it as a standard framework, so people only need to focus on the 2nd step wh
 
 We can also use this framework to make changes, store the execution result if you want.
 
+*Snapshot example*
+![Example](/img/datacollector-framework.png)
+
