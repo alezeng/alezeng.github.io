@@ -62,3 +62,5 @@ Order the matched rules by priority and add base rule which has the lower priori
 3. Get all the parameters of matched rules. If a parameter in multiple rules, the win value is the value from rule with highest priority.
 
 
+*Snapshot example*
+![Example](/img/parameter-management.png)

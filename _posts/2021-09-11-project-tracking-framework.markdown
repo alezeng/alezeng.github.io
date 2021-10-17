@@ -48,3 +48,8 @@ Design:
 
 [dynamic-config-framework]: /automation/2021/09/06/dynamic-config-framework.html
 [data-collector-framework]: /automation/2021/09/06/data-collector-framework.html
+
+
+*Snapshot example*
+![Example](/img/project-tracking.png)
+![Example](/img/project-tracking-detail.png)

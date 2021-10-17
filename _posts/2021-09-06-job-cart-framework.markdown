@@ -26,3 +26,6 @@ We define this Job Cart as a framework to support different types of jobs as lon
 2. Update a job status
 3. Get a job status
 With these, the Job Cart will be able to orchestrate the job life cycle and take appopriate action based on it.
+
+*Snapshot example*
+![Example](/img/job-cart.png)

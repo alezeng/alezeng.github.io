@@ -22,3 +22,7 @@ Design
     - Get all value from Dictionary configuration: input dictionary name, return an array of dictionary in JSON format
     - Get one value for Dictionary configuration: input dictionary name and key name, return a value of the given key
 
+
+*Snapshot example*
+![Example](/img/dynamic-list-config.png)
+![Example](/img/dynamic-dict-config.png)

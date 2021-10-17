@@ -20,4 +20,9 @@ Design
 - Run the Query using Bind Variables if any
 - Format result to Json and return
 
+## What
+Easy configuration as below
+
+*Snapshot example*
+![Example](/img/sql-to-api.png)
 

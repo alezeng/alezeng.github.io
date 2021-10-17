@@ -32,3 +32,6 @@ Implementation
 4. Create API to analysis the traffic with [sql2api framework](/automation/2021/09/06/sql2api-framework.html)
 5. Create UI to show the traffic with [api2ui framework](/automation/2021/09/06/api2ui-framework.html)
 
+
+*Snapshot example*
+![Example](/img/traffic-analysis.jpg)

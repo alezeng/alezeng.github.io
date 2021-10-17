@@ -24,3 +24,7 @@ Implementation
 1. Create jobs to gather the space usage and store in a centralize db
 2. Create API to show the trend, drilldown and top one with [sql2api framework](/automation/2021/09/06/sql2api-framework.html)
 3. Create UI to show the result with [api2ui framework](/automation/2021/09/06/api2ui-framework.html)
+
+
+*Snapshot example*
+![Example](/img/space-analysis.png)

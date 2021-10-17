@@ -23,3 +23,12 @@ Design
 
 [SQL to API framework]: /automation/2021/09/06/sql2api-framework.html
 
+## What
+Easy configuration as below
+
+*Snapshot example*
+![Example](/img/api-to-ui.png)
+
+*Configed UI shows as below*
+![Example](/img/api-to-ui-example.png)
+
